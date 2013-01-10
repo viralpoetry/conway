@@ -1,0 +1,6 @@
+My very own implementation of <a href="http://en.wikipedia.org/wiki/Conway's_Game_of_Life">Conway's Game of Life</a> in <a href="http://processing.org/">Processing</a>.
+
+Controls:
+
+Left  Mouse Button - add cell to grid
+Right Mouse Button - play / stop computation
